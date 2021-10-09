@@ -1,0 +1,72 @@
+E v o l o u t i o n
+C h a n g e l o g
+
+
+ - Current Changelog -
+
+
+-=-=-=-Version 2.0.0.0. BETA-=-=-=-=-
+
+        Adding-Ins +
+
+-Infinite Support is added in! < Added >
+-Added in more Sellbot HQ Textures! < Added >
+-Added in Goofy Speedway Textures! < Added >
+-Added in some Party textures, more to come soon. < Added >
+-Found a proper Lawbot Suit texture to be added in. < Added >
+- Added in an interesting texture to "CowboySleeve2" < Added >
+
+        Removals -
+
+-Alot of Lawbot HQ Textures are removed. Others are going to be removed also. < Removed >
+-Removed the "Sound Pajamas", "FemaleSkirt 1 and 2", "FemaleSleeve1b",  and the "Cowboyskirt2" Custom Textures < Removed >
+-Took out BoxSide1 < Removed >
+
+       Fixes / Changes + + +
+
+-Fixed various BBHQ textures < Fixing / Change >
+-Fixed some of the Cog stuff < Fixing / Change >
+-Fixed the Y/R Texture in Find-Four < Fixing / Change >
+-Fixed the bush texture in Bossbot HQ. < Fixing / Change >
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+
+- Previous Changelogs -
+
+
+
+
+
+
+-=-=-=-Version 5.0.0.0. ALPHA-=-=-=-=-
+
+~ This Version added in various music and textures
+found in Mister Tom's Evouloution Build ~
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+-=-=-=-Version 4.0.0.0. ALPHA-=-=-=-=-
+
+        Adding-ins +
+
+-Improoved C.F.O. Textures.! < Added >
+-Added Goofy Speedway Music.! < Added >
+-Added in music for the Fireworks BGM! < Added >
+
+        Removals -
+
+-Decided to Scrap Custom Suit textures, could be Re-Added soon! < Removed >
+-No more sloppy custom GUI's < Removed >
+
+       Fixes / Changes + + +
+
+-Made songs loop longer due to it quickly ending < Fixing >
+-Changed C.E.O. Music due to crashing errors < Fixing / Change >
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

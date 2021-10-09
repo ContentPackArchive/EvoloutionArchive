@@ -1,0 +1,26 @@
+-=How To Install=-
+
+Step 1. Locate Your Toontown Rewritten Folder
+Go to C:\Program Files (x86)\Toontown Rewritten\
+
+Step 2. 
+In that file location, Make a folder called "resources" - These are for Texture/Content Packs.
+
+Step 3. 
+Extract All the Phase Files
+
+Step 4.
+Launch TTR.
+
+Step 5.
+Enjoy!
+
+
+              -Loon
+
+
+Questions / Comments / Confuszzled?
+Email:
+l.oony@aol.com
+Skype:
+pokemonrocks360
